@@ -2,11 +2,15 @@ My name is Lucas Baradel Marchiori and I'm an adventurous person who has a speci
 As the technologies improve over time, I do my best to be always updated to the main market requirements.
 
 Skills: 
+
 Front-end: Bootstrap, CSS3, Design Responsivo, Flutter, HTML5, JavaScript, LESS, SASS, WordPress, Zurb Foundation 6.
 
 Back-end/Banco de Dados: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP, Python.
 
 Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Google Adwords.
 
-LinkedIn: https://www.linkedin.com/in/dev-lucasbmarchiori/.
-Portfolio: https://lucasbmarchiori.com.br/.
+LinkedIn: 
+https://www.linkedin.com/in/dev-lucasbmarchiori/.
+
+Portfolio: 
+https://lucasbmarchiori.com.br/.
