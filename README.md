@@ -10,7 +10,7 @@ Back-end/Databases: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP, Python
 Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Google Adwords.
 
 LinkedIn: 
-https://www.linkedin.com/in/dev-lucasbmarchiori/.
+https://www.linkedin.com/in/dev-lucasbmarchiori/
 
 Portfolio: 
-https://lucasbmarchiori.com.br/.
+https://www.lucasbmarchiori.com.br/
