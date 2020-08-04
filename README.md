@@ -5,7 +5,7 @@ Skills:
 
 Front-end: Bootstrap, CSS3, Design Responsivo, Flutter, HTML5, JavaScript, LESS, SASS, WordPress, Zurb Foundation 6.
 
-Back-end/Banco de Dados: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP, Python.
+Back-end/Databases: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP, Python.
 
 Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Google Adwords.
 
