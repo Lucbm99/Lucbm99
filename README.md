@@ -5,9 +5,9 @@ Skills:
 
 Front-end: Bootstrap, CSS3, Design Responsivo, Flutter, HTML5, JavaScript, LESS, SASS, WordPress, Zurb Foundation 6.
 
-Back-end/Databases: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP, Python.
+Back-end/Databases: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP.
 
-Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Google Adwords.
+Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab.
 
 LinkedIn: 
 https://www.linkedin.com/in/dev-lucasbmarchiori/
