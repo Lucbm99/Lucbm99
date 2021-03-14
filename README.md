@@ -3,7 +3,10 @@ As the technologies improve over time, I do my best to be always updated to the 
 
 Skills: 
 
-Front-end: Bootstrap, CSS3, Design Responsivo, Flutter, HTML5, JavaScript, LESS, SASS, WordPress, Zurb Foundation 6.
+Front-end: 
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![CSS3 Badge]https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+Design Responsivo, Flutter, HTML5, JavaScript, LESS, SASS, WordPress, Zurb Foundation 6.
 
 Back-end/Databases: CodeIgniter, Dart, HeidiSQL, Linguagem R, MySQL, PHP.
 
@@ -15,9 +18,6 @@ My social midia:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lucasbmarchiori/)](https://www.facebook.com/lucasbmarchiori/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://lucasbaradel.medium.com/)](https://lucasbaradel.medium.com/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCFWAu8TEfOzajZ5n5sni-oA)](https://www.youtube.com/channel/UCFWAu8TEfOzajZ5n5sni-oA/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=lbaradelmarchiori@gmail.com)](lbaradelmarchiori@gmail.com)
-
-
 
 Portfolio: 
 https://www.lucasbmarchiori.com.br/
