@@ -20,6 +20,8 @@ Back-end:
 
 Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab.
 
+
+
 My social midia: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasbmarchiori/)](https://www.linkedin.com/in/dev-lucasbmarchiori/)
@@ -27,8 +29,8 @@ My social midia:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://lucasbaradel.medium.com/)](https://lucasbaradel.medium.com/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCFWAu8TEfOzajZ5n5sni-oA)](https://www.youtube.com/channel/UCFWAu8TEfOzajZ5n5sni-oA/)
 
-Portfolio: 
-https://www.lucasbmarchiori.com.br/
+
+Portfolio: https://www.lucasbmarchiori.com.br/
 
 
 
