@@ -19,7 +19,7 @@ Back-end:
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab.
+Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Insomnia, Postman.
 
 
 
