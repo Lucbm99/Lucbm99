@@ -1,6 +1,12 @@
 My name is Lucas Baradel Marchiori and I'm an adventurous person who has a special taste for technology. Currently, I work with frontend development, such as screen prototyping and responsive design and a bit of backend also for sites and systems.
 As the technologies improve over time, I do my best to be always updated to the main market requirements.
 
+ <div>
+  <a href="https://github.com/Lucbm99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucbm99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucbm99&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 Skills: 
 
 Front-end: 
@@ -34,6 +40,7 @@ My social midia:
 
 Portfolio: https://www.lucasbmarchiori.com.br/
 
+  ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
 
 
