@@ -11,7 +11,10 @@ As the technologies improve over time, I do my best to be always updated to the 
 <br><br>
 Skills: 
 
+<div style="text-align: center;">
 Front-end: 
+</div>
+ 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -21,18 +24,28 @@ Front-end:
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-Back-end:
+<div style="text-align: center;">
+Back-end: 
+</div>
+
 ![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-Others: Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Insomnia, Postman.
+<div style="text-align: center;">
+Others: 
+</div>
+
+Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Insomnia, Postman.
 
 
 
+<div style="text-align: center;">
 My social midia: 
+</div>
+
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lucasbmarchiori/)](https://www.facebook.com/lucasbmarchiori/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/codehelp3)](https://www.instagram.com/codehelp3)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasbmarchiori/)](https://www.linkedin.com/in/dev-lucasbmarchiori/)
