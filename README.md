@@ -41,17 +41,26 @@ Back-end:
 Others: 
 </div>
 
-Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Insomnia, Postman.
+![Adobe_Photoshop_Badge](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
+![AdobeXD_Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Bitbucket_Badge](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git_Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github_Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab_Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma_Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Insomnia_Badge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Postman_Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 ---
 
 🔥 Meus melhores repositórios
 
 <a href="https://github.com/Lucbm99/TrucoCounter">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=TrucoCounter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=440D88" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=TrucoCounter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
 </a>
 <a href="https://github.com/Lucbm99/FigurasGeometricas-Calculadora">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=FigurasGeometricas-Calculadora&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=440D88" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=FigurasGeometricas-Calculadora&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
 </a>
 
 ---
