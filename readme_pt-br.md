@@ -1,4 +1,9 @@
-![4](https://user-images.githubusercontent.com/45500959/138937470-849a40f9-8c27-4d9f-93a9-f4e4a6bb013a.png)
+<h1 align="center">
+  Olá a todos, sou o Lucas 
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+	     width="30px"> 
+Bem-vindo ao meu perfil !!!
+</h1>
 
 <table align="center">
  <tr><td><a href="README.md">English</a></td></tr>
