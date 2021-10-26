@@ -1,3 +1,5 @@
+![4](https://user-images.githubusercontent.com/45500959/138937470-849a40f9-8c27-4d9f-93a9-f4e4a6bb013a.png)
+
 My name is Lucas Baradel Marchiori and I'm an adventurous person who has a special taste for technology. Currently, I work with frontend development on <a href="https://foccosweb.com.br/" target="_blank">FoccosWeb</a>, such as screen prototyping and responsive design and a bit of backend also for sites and systems.
 As the technologies improve over time, I do my best to be always updated to the main market requirements.
 
