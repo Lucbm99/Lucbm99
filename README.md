@@ -11,11 +11,11 @@
 </table>
 
 <br/><br/>
-## About me
+## :grimacing: About me
 My name is Lucas Baradel Marchiori and I'm an adventurous person who has a special taste for technology. Currently, I work with frontend development on <a href="https://foccosweb.com.br/" target="_blank">FoccosWeb</a>, such as screen prototyping and responsive design and a bit of backend also for sites and systems.
 As the technologies improve over time, I do my best to be always updated to the main market requirements.
 
-## My GitHub Stats 
+## :chart_with_upwards_trend: My GitHub Stats 
 
  <div>
   <a href="https://github.com/Lucbm99">
@@ -24,7 +24,7 @@ As the technologies improve over time, I do my best to be always updated to the 
 </div>
   </a>
 
-## Skills: 
+## :books: Skills: 
 
 ### Front-end: 
 
@@ -39,7 +39,7 @@ As the technologies improve over time, I do my best to be always updated to the 
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Back-end: 
+### Back-end: 
 
 ![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -47,7 +47,7 @@ As the technologies improve over time, I do my best to be always updated to the 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## Others: 
+### Others: 
 
 ![Adobe_Photoshop_Badge](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
 ![AdobeXD_Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -78,7 +78,7 @@ As the technologies improve over time, I do my best to be always updated to the 
 </a>
 
 
-## My social midia: 
+## :iphone: My social midia: 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lucasbmarchiori/)](https://www.facebook.com/lucasbmarchiori/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/codehelp3)](https://www.instagram.com/codehelp3)
