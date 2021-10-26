@@ -53,7 +53,7 @@ My social midia:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasbmarchiori/)](https://www.linkedin.com/in/dev-lucasbmarchiori/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://lucasbaradel.medium.com/)](https://lucasbaradel.medium.com/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCFWAu8TEfOzajZ5n5sni-oA)](https://www.youtube.com/channel/UCFWAu8TEfOzajZ5n5sni-oA)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.lucasbmarchiori.com.br/)](https://www.lucasbmarchiori.com.br/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.lucasbmarchiori.com.br/)](https://www.lucasbmarchiori.com.br/)
 
   
 <p align="center">
