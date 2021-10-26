@@ -11,11 +11,11 @@ Bem-vindo ao meu perfil !!!
 </table>
 <br/><br/>
 
-## Sobre mim
+## :grimacing:	Sobre mim
 Meu nome é Lucas Baradel Marchiori e sou uma pessoa aventureira que tem um gosto especial por tecnologia. Atualmente trabalho com desenvolvimento de front-end no <a href="https://foccosweb.com.br/" target="_blank"> FoccosWeb </a>, como prototipagem de tela e design responsivo e um pouco de back-end também para sites e sistemas.
 À medida que as tecnologias melhoram com o tempo, faço o possível para estar sempre atualizado com os principais requisitos do mercado.
 
-## Minhas estatísticas no GitHub
+## :chart_with_upwards_trend: Minhas estatísticas no GitHub
 
  <div>
   <a href="https://github.com/Lucbm99">
@@ -24,7 +24,7 @@ Meu nome é Lucas Baradel Marchiori e sou uma pessoa aventureira que tem um gost
 </div>
   </a>
 
-## Habilidades: 
+## :books: Habilidades: 
 
 ### Front-end: 
 
@@ -39,7 +39,7 @@ Meu nome é Lucas Baradel Marchiori e sou uma pessoa aventureira que tem um gost
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Back-end: 
+### Back-end: 
 
 ![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -47,7 +47,7 @@ Meu nome é Lucas Baradel Marchiori e sou uma pessoa aventureira que tem um gost
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## Outros: 
+### Outros: 
 
 ![Adobe_Photoshop_Badge](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
 ![AdobeXD_Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -78,7 +78,7 @@ Meu nome é Lucas Baradel Marchiori e sou uma pessoa aventureira que tem um gost
 </a>
 
 
-## Minhas redes sociais: 
+## :iphone: Minhas redes sociais: 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lucasbmarchiori/)](https://www.facebook.com/lucasbmarchiori/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/codehelp3)](https://www.instagram.com/codehelp3)
