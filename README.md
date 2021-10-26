@@ -1,7 +1,21 @@
-![4](https://user-images.githubusercontent.com/45500959/138937470-849a40f9-8c27-4d9f-93a9-f4e4a6bb013a.png)
+<h1 align="center">
+  Hi there, I'm Lucas 
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+	     width="30px"> 
+	Welcome to my Profile!!! 
+</h1>
 
+<table align="center">
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
+</table>
+
+<br/><br/>
+## About me
 My name is Lucas Baradel Marchiori and I'm an adventurous person who has a special taste for technology. Currently, I work with frontend development on <a href="https://foccosweb.com.br/" target="_blank">FoccosWeb</a>, such as screen prototyping and responsive design and a bit of backend also for sites and systems.
 As the technologies improve over time, I do my best to be always updated to the main market requirements.
+
+## My GitHub Stats 
 
  <div>
   <a href="https://github.com/Lucbm99">
@@ -10,13 +24,9 @@ As the technologies improve over time, I do my best to be always updated to the 
 </div>
   </a>
 
----
+## Skills: 
 
-Skills: 
-
-<div style="text-align: center;">
-Front-end: 
-</div>
+### Front-end: 
 
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -29,9 +39,7 @@ Front-end:
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<div style="text-align: center;">
-Back-end: 
-</div>
+## Back-end: 
 
 ![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -39,9 +47,7 @@ Back-end:
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<div style="text-align: center;">
-Others: 
-</div>
+## Others: 
 
 ![Adobe_Photoshop_Badge](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
 ![AdobeXD_Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -55,10 +61,14 @@ Others:
 ![Postman_Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Yarn_Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+## 🖥️ Workspace Setup
 
----
+![8GB RAM](https://img.shields.io/badge/8GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-🔥 Meus melhores repositórios
+
+## 🔥 My best repositories
 
 <a href="https://github.com/Lucbm99/TrucoCounter">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=TrucoCounter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
@@ -67,11 +77,8 @@ Others:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=FigurasGeometricas-Calculadora&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
 </a>
 
----
 
-<div style="text-align: center;">
-My social midia: 
-</div>
+## My social midia: 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lucasbmarchiori/)](https://www.facebook.com/lucasbmarchiori/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/codehelp3)](https://www.instagram.com/codehelp3)
