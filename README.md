@@ -3,12 +3,13 @@ As the technologies improve over time, I do my best to be always updated to the 
 
  <div>
   <a href="https://github.com/Lucbm99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucbm99&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucbm99&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucbm99&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do meu perfil" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucbm99&layout=compact&langs_count=7&theme=nord" alt="Linguagens mais utilizadas em meu perfil" />
 </div>
   </a>
 
-<br><br>
+---
+
 Skills: 
 
 <div style="text-align: center;">
@@ -42,7 +43,18 @@ Others:
 
 Adobe Fireworks, Adobe Photoshop, Adobe XD, Bitbucket, Figma, FluidUI, Git, GitHub, GitLab, Insomnia, Postman.
 
+---
 
+🔥 Meus melhores repositórios
+
+<a href="https://github.com/Lucbm99/TrucoCounter">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=TrucoCounter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=440D88" />
+</a>
+<a href="https://github.com/Lucbm99/FigurasGeometricas-Calculadora">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=FigurasGeometricas-Calculadora&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=440D88" />
+</a>
+
+---
 
 <div style="text-align: center;">
 My social midia: 
@@ -57,10 +69,11 @@ My social midia:
 
   
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucbm99.Lucbm99" alt="visitor badge"/>       
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucbm99.Lucbm99" alt="Quantidade de visitantes"/>       
 </p>
 
- 
+---
+
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
 
