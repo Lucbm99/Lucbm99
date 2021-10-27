@@ -21,7 +21,9 @@ As the technologies improve over time, I do my best to be always updated to the 
   <a href="https://github.com/Lucbm99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucbm99&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do meu perfil" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucbm99&layout=compact&langs_count=7&theme=nord" alt="Linguagens mais utilizadas em meu perfil" />
+
 </div>
+	
   </a>
 
 ## :books: Skills: 
@@ -66,7 +68,8 @@ As the technologies improve over time, I do my best to be always updated to the 
 ![8GB RAM](https://img.shields.io/badge/8GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
+![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 ## 🔥 My best repositories
 
