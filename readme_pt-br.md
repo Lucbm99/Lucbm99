@@ -2,7 +2,7 @@
   Olá a todos, sou o Lucas 
 	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
 	     width="30px"> 
-Bem-vindo ao meu perfil !!!
+Bem-vindo ao meu perfil!!!
 </h1>
 
 <table align="center">
