@@ -75,8 +75,8 @@ As the technologies improve over time, I do my best to be always updated to the 
 <a href="https://github.com/Lucbm99/TrucoCounter">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=TrucoCounter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
 </a>
-<a href="https://github.com/Lucbm99/FigurasGeometricas-Calculadora">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=FigurasGeometricas-Calculadora&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
+<a href="https://github.com/Lucbm99/MarvelAPI">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucbm99&repo=MarvelAPI&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161616" />
 </a>
 
 
