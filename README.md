@@ -12,8 +12,7 @@
 
 <br/><br/>
 ## :grimacing: About me
-My name is Lucas Baradel Marchiori and I'm an adventurous person who has a special taste for technology. Currently, I work with frontend development on <a href="https://foccosweb.com.br/" target="_blank">FoccosWeb</a>, such as screen prototyping and responsive design and a bit of backend also for sites and systems.
-As the technologies improve over time, I do my best to be always updated to the main market requirements.
+My name is Lucas Baradel Marchiori and I'm an adventurous person who has a special taste for technology. Currently, I work with Systems Analyst in Morungaba city hall. As the technologies improve over time, I do my best to be always updated to the main market requirements.
 
 ## :chart_with_upwards_trend: My GitHub Stats 
 
